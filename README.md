@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# redux-selectors
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+How to ensure render-efficient selectors with Redux/React.
 
 ## Available Scripts
 
