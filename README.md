@@ -1,5 +1,7 @@
 # redux-selectors
 
+🚧 under construction
+
 How to ensure render-efficient selectors with Redux/React.
 
 ## Available Scripts
